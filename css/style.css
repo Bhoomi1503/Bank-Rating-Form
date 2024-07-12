@@ -1,0 +1,38 @@
+body{
+   background-image: linear-gradient(to right rgb(245, 245, 152) rgb(249, 249, 112));
+}
+.section{
+    background-color: green;
+    color: white;
+    width: 100%;
+    padding: 10px;
+}
+h2,i{
+    color: white;
+}
+.col-8 input{
+    width:90% ;
+}
+.col-4 input{
+    width: 80%;
+}
+.col-3 input{
+    width: 50%;
+}
+.col-2 input{
+    width: 58%;
+}
+#line{
+    border: none;
+    border-bottom: 1px solid black;
+}
+#cir{
+    color: green;
+    margin-left: 50%;
+}
+#cir1,#cir{
+    color: green;
+}
+.section1{
+    margin: 20px;
+}
